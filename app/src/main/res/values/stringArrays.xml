@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="t1q">
+        <item>what color is a red lion</item>
+        <item>what color is a blue lion</item>
+        <item>what color is a yellow lion</item>
+    </string-array>
+
+    <string-array name="t1a">
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+    </string-array>
+
+    <string-array name="t2q">
+        <item>what color is a red tiger</item>
+        <item>what color is a blue tiger</item>
+        <item>what color is a yellow tiger</item>
+    </string-array>
+
+    <string-array name="t2a">
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+    </string-array>
+
+    <string-array name="t3q">
+        <item>what color is a red bear</item>
+        <item>what color is a blue bear</item>
+        <item>what color is a yellow bear</item>
+    </string-array>
+
+    <string-array name="t3a">
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+    </string-array>
+
+
+
+
+</resources>
